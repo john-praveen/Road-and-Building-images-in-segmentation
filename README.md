@@ -4,11 +4,7 @@
 
 This project implements a custom Convolutional Neural Network (CNN) to segment roads and buildings in satellite images. The model is trained on the OpenEarthMap Kaggle dataset and performs pixel-level land cover segmentation on diverse geographic regions. Preprocessing of satellite images ensures accurate feature extraction for urban and rural mapping.
 
----
 
-## About Remote Sensing
-
-Remote sensing involves acquiring information about the Earth's surface from satellites or aerial platforms. Accurate segmentation of roads and buildings is crucial for urban planning, disaster management, and environmental monitoring. This project processes satellite imagery from multiple sources to achieve high-quality segmentation.
 
 ---
 
